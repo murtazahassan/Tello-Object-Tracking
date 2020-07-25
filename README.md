@@ -4,7 +4,6 @@
 
 In this video we will learn  how to program a drone to move around using python. We will also learn how to get the camera feed from this drone and run OpenCV functions on it . As an example we will detect an object and make the drone follow it around. 
 
-Subscribe its FREE !!! 😂😂😂
 #DroneProgramming
 #Opencv
 #Python
